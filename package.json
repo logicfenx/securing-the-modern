@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/securing-the-modern",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a securing-the-modern",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/securing-the-modern.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/en/strategies-secure-remote-access/"
+    },
+    "homepage": "https://bitcu.co/en/strategies-secure-remote-access/"
+}
